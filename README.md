@@ -99,3 +99,6 @@ This picture was taken form TheGuardian.com portraying Moira.
 
    <p style="text-align: center;"> They said: "Most people know now that the necessary resources and technology exist to solve our biggest challenges. We have the ability to feed, house, and provide energy for every person on Earth if we want to. These solutions, however, are currently not available to most people. People can create solution-creating solutions specific to each of these areas though. Doing this will make food, energy, and housing accessible and replicable by people with average knowledge and little or no experience. It will also teach these people how to teach others how to replicate these things too.  People visiting generates even more sharing of the solutions and model and also generates revenue for expansion and additional design, development, and construction. "</p>
 <h2>"Give a man a fish and you feed him for a day. Teach the man to fish and you feed him for a lifetime" - Chinese Proverb</h2> 
+<br> 
+   <strong>This idea of community which is united through open sharing is very inspiring. </strong>
+   <p style="text-align: center;"></p>
