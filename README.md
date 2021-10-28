@@ -4,6 +4,9 @@
 <p style="text-align: center;"> I am going to touch upon what physical computing is and use Arduino to fully understand it. This will allow me to then understand what open sourcing is and the impact it has on society.</p>
 <strong>What is Physical Computing?</strong>
 <p style="text-align: center;"> Physical computing are interactive systems such as hardware, software and materials which combined together are able to sense and respond to the world around them. It collects information about the environment and the real world and acts back by making a decision. Computers are literally everywhere. It allows you to see to see how physical devices can be monitored and controlled by a microprocessor. Creating or using devices that that interact with the world around them. It senses the information, reflects about it and then acts. An example is a self driving car. It uses sensors, analyzes data and acts.Through physical computing, you can develop digital solutions that directly impact the real world based on real-world needs. </p>
+<strong>What are some Physical Computing Examples in the field of Art?</strong>
+<p style="text-align: center;">Scott Snibbe is an example of artist which uses physical Computing. Using computer vision, he manipulates projections on walls and floors when people interact with them. His best-known installation is Boundary Functions (1998). As people move across this four-meter by four-meter floor, Boundary Functions uses a camera, computer and projector to draw lines between all of the people on the floor, forming a Voronoi Diagram. The lines highlight each person with lines that outline his or her personal space. Snibbe states that this work "shows that personal space, though we call it our own, is only defined by others and changes without our control".</p>
+<img width="394" alt="Screenshot 2021-10-28 at 22 44 07" src="https://user-images.githubusercontent.com/93208364/139340646-2bb838bf-66d1-4121-9de9-01432798d7f7.png">
 <strong>What is Arduino? </strong>
 <p style="text-align: center;"> Arduino is a programmable device that can be used to allow our code to interact with the world around us. It is made of multiple components and sesnors. It senses the world around it, and based on its programming it reacts accordingly. Temperature sensor is an example. It measures the temperature of the room. If for example it finds that the temperatuire is above 19 degress celcius, it applies this value to the program that is coded with. If it sees that the temperature is less than 20, a light LED turns on. If not it turns off. You have to communicate wtih your device and programm how it should sense, what it should think and how it should react. </p>
 <strong>How does Arduino work? </strong>
@@ -74,8 +77,8 @@ https://user-images.githubusercontent.com/93208364/139296379-9704d370-8ce8-4a59-
 Wikipedia Contributors (2019). Open source. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Open_source.
 <br>
 <p style="text-align: center;">The source code of a program is specially designed to make programmers' work easier, as programmers specify by writing source code what actions a computer should perform.</p>
-  <p style="text-align: center;">I was still unsure what it actually meant so I decided to watch this TED talk which really helped.</p>
-  https://www.youtube.com/watch?v=glPmxeVMgyg&t=64s Why I Give My Best Design Ideas Away for Free | Ben Uyeda | TEDxJamaicaPlain.
+ <br>
+  <p style="text-align: center;">I was still unsure what it actually meant so I decided to watch this TED talk which really helped. https://www.youtube.com/watch?v=glPmxeVMgyg&t=64s Why I Give My Best Design Ideas Away for Free | Ben Uyeda | TEDxJamaicaPlain.</p>
   <br>
  <li>"How do you design for people who can't afford to hire you?"</li> 
  <li>"Design is a way to access new experiences no matter how limited the resources are."</li>
@@ -84,7 +87,9 @@ Wikipedia Contributors (2019). Open source. [online] Wikipedia. Available at: ht
   <li>"If i was spending time developing products I would spend months if not years, on ideas that i already have and i would see new ideas as distractions and not opportunities."</li>
  <br/>
  <nav>
-   <p style="text-align: center;"> He produced media content that motivated, instructed and resulted in economic activity.I decided to watch another TED talk. "Open Source Design: Design is the Future of Open Source - Soleio, Combine (Config)"https://www.youtube.com/watch?v=2jlt-1E1Ee0&feature=emb_logo&ab_channel=Figma </p>
+   <p style="text-align: center;"> He produced media content that motivated, instructed and resulted in economic activity.</p>
+   <br>
+    <p style="text-align: center;"> I decided to watch another TED talk. "Open Source Design: Design is the Future of Open Source - Soleio, Combine (Config)"https://www.youtube.com/watch?v=2jlt-1E1Ee0&feature=emb_logo&ab_channel=Figma </p>
    <br>
    <p style="text-align: center;">It shares the importance of creative computing. Open Source is a way of teaching by sharing. New infrastructures were engineered when they were open sourced for example. Open sourcing should be made accessible to only people that know how to code. It shares this example Spreadsheet by Moira for the #MeToo movement. It allowed many women to share the perpetrators that inflicted sexual violence upon them. This spreadsheet reached a lot of popularity. The right combination of tool, people and distribution demonstrated the power to kick off investigations and in some cases create justice and cultural reform. Open source is evolving, allowing many more people to access technology. We need to broaden access to technology and design. If not the concentration of power to few give them opportunity to reveal their talent.</p>
    <img width="497" alt="Screenshot 2021-10-28 at 18 10 20" src="https://user-images.githubusercontent.com/93208364/139302999-5f988e7b-f783-4e0e-a662-dee656ab6b21.png">
