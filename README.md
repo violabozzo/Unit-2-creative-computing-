@@ -1,1 +1,39 @@
-# Unit-2-creative-computing-
+# Unit 2 Creative Computing
+<h2>A guide through creative computing by a beginner for a beginner </h2>
+<p style="text-align: center;">I am a student of graphic communication design at Central Saint Martins. I do not have much knowledge when it comes to creative computing, electronics and coding. This Unit I started is a chance for me to learn what it means, new skills and ultimatley share it with others. I am planning on writing things in a way that myself and others as well that do not have much knowledge about this topic are able to understand it. </p>
+<p style="text-align: center;">I decided to pursue this project because...</p>
+<strong>What is Physical Computing?</strong>
+<p style="text-align: center;"> Physical computing are interactive systems such as hardware, software and materials which combined together are able to sense and respond to the world around them. It collects information about the environment and the real world and acts back by making a decision. Computers are literally everywhere. It allows you to see to see how physical devices can be monitored and controlled by a microprocessor. Creating or using devices that that interact with the world around them. It senses the information, reflects about it and then acts. An example is a self driving car. It uses sensors, analyzes data and acts.Through physical computing, you can develop digital solutions that directly impact the real world based on real-world needs. </p>
+<strong>What is Arduino? </strong>
+<p style="text-align: center;"> Arduino is a programmable device that can be used to allow our code to interact with the world around us. It is made of multiple components and sesnors. It senses the world around it, and based on its programming it reacts accordingly. Temperature sensor is an example. It measures the temperature of the room. If for example it finds that the temperatuire is above 19 degress celcius, it applies this value to the program that is coded with. If it sees that the temperature is less than 20, a light LED turns on. If not it turns off. You have to communicate wtih your device and programm how it should sense, what it should think and how it should react. </p>
+<strong>How does Arduino work? </strong>
+<p style="text-align: center;">Let's have a look at what Arduino actually is and how it works. I'll then demostrate defferent examples of what you can do with it as a begginer.</p>
+<p style="text-align: center;">The Arduino kit offers different components to create your circuit. There is the Arduino software which makes it easy to write code and upload it to the board. Inside the kit you find:</p>
+<ul><p>1. Arduino Uno, which is the most important part of the kit. </p>
+<ul><p>2.The Breadboard, is the tool to experiment with circuits and you can make quick electrical connections. Components are plugged into the holes.</p> 
+<ul><p>3.LEDs come in different colours. It has a longer and a shorter leg. Usually the longer is positive while the shorter leg is negative.</p>
+<ul><p>4.The USB Cable, connects to your Arduino as well to your computer. It provides power to the unit and the cable transmits the data from the computer's software to the Arduino.</p>
+</ul><p>5.The resistors, can look different depenidng on the kit you have. They give and limit the flow of current to other components.</p>
+</ul><p>6.The Pushbuttons, are buttons that when pressed they can interupt or make the flow of electricty go. When the button is pushed all the four legs are going to be connected.</p>
+</ul><p>7.The Jumper Wires, are for making connections on the breadboard, as well to connect breadboard and Arduino itself. They come in different colors which does not change anything, it is simply to organize them better when together.</p>
+<nav> Before jumping into realizing an actual circut with the components, I am going to explain further what the breadboard is and how it works to better understand the process.<br/>
+<br/><div>The image below was taken from the website https://toptechboy.com/tag/pc-board/ </div> <br/>
+<img width="469" alt="Screenshot 2021-10-28 at 11 11 37" src="https://user-images.githubusercontent.com/93208364/139285226-1689933d-2641-47c4-bf27-eb7c1ef90f59.png"><br/>
+<p style="text-align: center;">In order to build a circuit, you have to connect circuit elements together. The schematic above is going to be built in the real world. The holes along the columns are connected together. If you bring a leg of the LED and the resistor, they will then be connected together. Except across the dividing layers between the holes. The positive and negative rows are not connected together, they are connected on their own row only. You have to put elements in the same column, not row, to make them connected. </p>
+<span style="text-decoration: underline;">Now I will show through images one of the process to turn on through the circuit the LED light on.</span> <br/>
+<img width="366" alt="Screenshot 2021-10-27 at 23 27 22" src="https://user-images.githubusercontent.com/93208364/139288696-483d936a-0706-47fa-94e2-c6177fc320b5.png">
+<p style="text-align: center;">Take an Arduino Uno R3 and a small Breadboard.</p>
+<img width="389" alt="Screenshot 2021-10-27 at 23 37 47" src="https://user-images.githubusercontent.com/93208364/139288829-4ed65fdd-7c8e-41a5-866d-b4d3d7583385.png">
+<p style="text-align: center;">You need now to connect a jumper wire to the board. You connect from the SV to the first positive hole of the breadboard. This will give this entire vertical line power. </p>
+<img width="385" alt="Screenshot 2021-10-27 at 23 46 42" src="https://user-images.githubusercontent.com/93208364/139288981-1f878a6e-4318-4ba2-9b10-9db1da893f8b.png"> 
+  <p style="text-align: center;">Now you position the Pushbutton more or less where it is placed in the image above. Make sure to push well the button down so it clicks.</p>
+  <img width="378" alt="Screenshot 2021-10-27 at 23 48 49" src="https://user-images.githubusercontent.com/93208364/139289084-8cb7df99-8fde-4460-86c0-2985144615b2.png">
+  <p style="text-align: center;">You now place the resistor on the breadboard. To do so make sure to bend the legs of it. You will place one of the legs in the hole next to the Pushbutton's top left leg. You will place the other leg on the other column, on the negative side and either one up or down hole from the other leg.</p>
+<img width="382" alt="Screenshot 2021-10-27 at 23 53 06" src="https://user-images.githubusercontent.com/93208364/139289195-3796b478-ef84-4b97-b4d9-6b14ab915bcb.png">
+ <p style="text-align: center;">You will place the LED light on the same vertical side of the Pushbutton's legs. The long leg needs to go to the positive voltage. </p>
+  <img width="382" alt="Screenshot 2021-10-27 at 23 56 31" src="https://user-images.githubusercontent.com/93208364/139289349-d5c91244-20b1-481d-add6-687ebcacc3c9.png">
+<p style="text-align: center;">You will place a new jumper wire. One will fill the hole which is on the same horizontal line of the LED light and the one right next to it. The other will be the hole on the positive, same horizontal line.</p>
+<img width="382" alt="Screenshot 2021-10-28 at 00 00 38" src="https://user-images.githubusercontent.com/93208364/139289437-debb6e03-7aab-47e0-8b49-6e4e12c241e7.png"> 
+  <p style="text-align: center;">You will put in a new jumper wire. One will fill the hole in front of the LED light on the vertical line compared to the Pushbutton. The other will be connected on the horizontal line of the Pushbutton bottom left leg, right next to it. </p>
+  <img width="364" alt="Screenshot 2021-10-28 at 00 06 52" src="https://user-images.githubusercontent.com/93208364/139289551-14a03a59-4221-4049-bdee-0c3b41b2708c.png">
+  <p style="text-align: center;">You will connect it with a USB cable that is connected on the other hand to the computer. You can now press the button and the LED light will turn on. </p>
