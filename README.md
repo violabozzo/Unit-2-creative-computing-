@@ -58,5 +58,6 @@
 <img width="381" alt="Screenshot 2021-10-28 at 11 26 17" src="https://user-images.githubusercontent.com/93208364/139293383-39930c65-caba-4c21-b782-016a8059210b.png">
 <img width="384" alt="Screenshot 2021-10-28 at 11 29 16" src="https://user-images.githubusercontent.com/93208364/139293423-b4883279-0b26-419f-938d-28d346c0a2c9.png">
 <p style="text-align: center;">These are two videos I made. The first one shows how I changed the variables to make light twitching very fast. The second video is morsing the code S.O.S.</p>
-  ![UNADJUSTEDNONRAW_thumb_1483](https://user-images.githubusercontent.com/93208364/139294009-0cb033d5-b753-423c-9db4-d8c4e5df1ad5.jpg)
-![UNADJUSTEDNONRAW_thumb_1484](https://user-images.githubusercontent.com/93208364/139294048-004e1b12-1447-4db7-98e6-bdc7dd3bba94.jpg)
+https://user-images.githubusercontent.com/93208364/139295410-f84fb46d-b34e-4e10-a654-ff50b286e56e.mp4
+https://user-images.githubusercontent.com/93208364/139296114-6a2194fc-b524-465f-a559-4917a3bcd506.mp4
+
