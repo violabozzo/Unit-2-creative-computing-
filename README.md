@@ -65,4 +65,37 @@ https://user-images.githubusercontent.com/93208364/139296299-026ff760-05a0-468f-
 <br>
 <p style="text-align: center;">This is the second video</p>  
 https://user-images.githubusercontent.com/93208364/139296379-9704d370-8ce8-4a59-b7fd-c406c1b80f76.mp4
+<br>
+<p style="text-align: center;">I used the Youtube Link below to help myself with Arduino./p>
+[https://www.youtube.com/watch?v=fJWR7dBuc18&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&index=1&ab_channel=PaulMcWhorter](url)
+<br>
+<h3>Open Source and GitHub</h3>
+<p style="text-align: center;">I found this definition: "Open source is source code that is made freely available for possible modification and redistribution. Products include permission to use the source code, design documents,or content of the product. The open-source model is a decentralized software development model that encourages open collaboration. A main principle of open-source software development is peer production, with products such as source code, blueprints, and documentation freely available to the public. The open-source movement in software began as a response to the limitations of proprietary code. The model is used for projects such as in open-source appropriate technology and open-source drug discovery".</p> 
+Wikipedia Contributors (2019). Open source. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Open_source.
+<br>
+<p style="text-align: center;">The source code of a program is specially designed to make programmers' work easier, as programmers specify by writing source code what actions a computer should perform.</p>
+  <p style="text-align: center;">I was still unsure what it actually meant so I decided to watch this TED talk which really helped.</p>
+  https://www.youtube.com/watch?v=glPmxeVMgyg&t=64s Why I Give My Best Design Ideas Away for Free | Ben Uyeda | TEDxJamaicaPlain.
+  <br>
+ <li>"How do you design for people who can't afford to hire you?"</li> 
+ <li>"Design is a way to access new experiences no matter how limited the resources are."</li>
+  <li>"When other people make and sell my ideas, I get to learn how they improve them"</li>
+  <li>"The surest way to run out of new ideas is to hold on too tightly on old ideas"</li>
+  <li>"If i was spending time developing products I would spend months if not years, on ideas that i already have and i would see new ideas as distractions and not opportunities."</li>
+ <br/>
+ <nav>
+   <p style="text-align: center;"> He produced media content that motivated, instructed and resulted in economic activity.I decided to watch another TED talk. "Open Source Design: Design is the Future of Open Source - Soleio, Combine (Config)"https://www.youtube.com/watch?v=2jlt-1E1Ee0&feature=emb_logo&ab_channel=Figma </p>
+   <br>
+   <p style="text-align: center;">It shares the importance of creative computing. Open Source is a way of teaching by sharing. New infrastructures were engineered when they were open sourced for example. Open sourcing should be made accessible to only people that know how to code. It shares this example Spreadsheet by Moira for the #MeToo movement. It allowed many women to share the perpetrators that inflicted sexual violence upon them. This spreadsheet reached a lot of popularity. The right combination of tool, people and distribution demonstrated the power to kick off investigations and in some cases create justice and cultural reform. Open source is evolving, allowing many more people to access technology. We need to broaden access to technology and design. If not the concentration of power to few give them opportunity to reveal their talent.</p>
+   <img width="497" alt="Screenshot 2021-10-28 at 18 10 20" src="https://user-images.githubusercontent.com/93208364/139302999-5f988e7b-f783-4e0e-a662-dee656ab6b21.png">
+This picture was taken form TheGuardian.com portraying Moira. 
+   <br>
+   <strong>Examples of Open Sharing in communities:</strong>
+   <br>
+   <p style="text-align: center;">"One Community - For The Highest Good Of All" is a non-profit community organized by volunteers. Their "mission is to help people create a better world by demonstrating a more sustainable and enriching way of living and open source everything needed for replication. This includes free-shared and “Highest Good” approaches to food, energy, housing, education, for-profit and non-profit economic design, social architecture, fulfilled living, global stewardship practices, and more. Combined, we will use these to build One Community as the first of many teacher/demonstration hubs. These hubs will form a global collaborative to provide even more research, blueprints, and necessary support for successively easier, more affordable, and creative duplication everywhere." </p>
+   <br>
+   <p style="text-align: center;">Open sourcing for them is fundamental, as it promotes collaboration instead of competition, as everyone as a free access to the information they provvide and are encouraged to share their ideas. A solution-creating solution model offers this benefit as it does not limit the possible solutions. They want to promote this sharing to improve humanity. </p>
+   <img width="664" alt="Screenshot 2021-10-28 at 18 22 39" src="https://user-images.githubusercontent.com/93208364/139304692-9fb5319c-5d04-4b12-886e-a422e454f09c.png">
 
+   <p style="text-align: center;"> They said: "Most people know now that the necessary resources and technology exist to solve our biggest challenges. We have the ability to feed, house, and provide energy for every person on Earth if we want to. These solutions, however, are currently not available to most people. People can create solution-creating solutions specific to each of these areas though. Doing this will make food, energy, and housing accessible and replicable by people with average knowledge and little or no experience. It will also teach these people how to teach others how to replicate these things too.  People visiting generates even more sharing of the solutions and model and also generates revenue for expansion and additional design, development, and construction. "</p>
+<h2>"Give a man a fish and you feed him for a day. Teach the man to fish and you feed him for a lifetime" - Chinese Proverb</h2> 
