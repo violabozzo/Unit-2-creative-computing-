@@ -101,4 +101,5 @@ This picture was taken form TheGuardian.com portraying Moira.
 <h2>"Give a man a fish and you feed him for a day. Teach the man to fish and you feed him for a lifetime" - Chinese Proverb</h2> 
 <br> 
    <strong>This idea of community which is united through open sharing is very inspiring. </strong>
-   <p style="text-align: center;"></p>
+   <p style="text-align: center;">I want to apply the findings to students or in general people who do not have much knowledge about technology in general and that are afraid ot it. </p>
+   <p style="text-align: center;">I want to apply the findings to the creative computing community. I would like to adopt the role of being a begginer which in my opion can really help by giving an extarnal point of view. I want to write things I know and keep the approach of how a begginer would see my work. Making sure that the work is written very clearly and visually appealing as well. I suggest making different versions of files that are made about topics for different levels of understanding. I suggest creating </p>
