@@ -52,12 +52,17 @@
 <p style="text-align: center;">For this part, you will need an arduino Uno, a breadboard, a USB cable, 3 resistors and 4 jumper wires. Connect them like in the pictures above. The resistors need to be spaced out from each other and a leg be on the negative row. The LEDs longest leg will connect with the resistor's leg. The wires must connect on one side with the other LEDs leg and the other on the pins. The USB cable will power the Arduino. Below is the program used to make the lights go on a sequence. The loop is the actual instructions of the lights to follow. 
 </p>
   <img width="487" alt="Screenshot 2021-10-28 at 11 53 12" src="https://user-images.githubusercontent.com/93208364/139293166-a797b560-24ca-4e21-b66b-aee56da4dd9d.png">
+  <br>
 <strong>These are the Results:</strong>
+  <br>
   <img width="379" alt="Screenshot 2021-10-28 at 11 04 56" src="https://user-images.githubusercontent.com/93208364/139293308-6155b0d3-54ee-4584-a753-a72b2cd1adf3.png">
 <img width="377" alt="Screenshot 2021-10-28 at 11 07 58" src="https://user-images.githubusercontent.com/93208364/139293339-df2147e3-8023-450f-98a3-4db592112884.png">
 <img width="381" alt="Screenshot 2021-10-28 at 11 26 17" src="https://user-images.githubusercontent.com/93208364/139293383-39930c65-caba-4c21-b782-016a8059210b.png">
 <img width="384" alt="Screenshot 2021-10-28 at 11 29 16" src="https://user-images.githubusercontent.com/93208364/139293423-b4883279-0b26-419f-938d-28d346c0a2c9.png">
 <p style="text-align: center;">These are two videos I made. The first one shows how I changed the variables to make light twitching very fast. The second video is morsing the code S.O.S.</p>
-https://user-images.githubusercontent.com/93208364/139295410-f84fb46d-b34e-4e10-a654-ff50b286e56e.mp4
-https://user-images.githubusercontent.com/93208364/139296114-6a2194fc-b524-465f-a559-4917a3bcd506.mp4
+
+https://user-images.githubusercontent.com/93208364/139296299-026ff760-05a0-468f-b087-f9bcd54605b9.mp4
+<br>
+<p style="text-align: center;">This is the second video</p>  
+https://user-images.githubusercontent.com/93208364/139296379-9704d370-8ce8-4a59-b7fd-c406c1b80f76.mp4
 
